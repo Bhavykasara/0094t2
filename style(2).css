@@ -1,0 +1,57 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO4PN-UaNWzXKvnY5PO9w9_lmDOIsc0uN8ig&usqp=CAU");
+}
+
+#head_h1 {
+    color: white;
+    font-size: 50px;
+    font-family: 'Satisfy', cursive;
+}
+
+#head_img {
+    width: 10%;
+}
+
+#main {
+    border: solid 10px white;
+    margin-left: 16%;
+    margin-right: 15%;
+}
+
+#oplabel {
+    color:white;
+    font-family: 'Caveat', cursive;
+    margin-bottom: 10%;
+    font-size: 60px;
+}
+
+#roomname {
+    margin-top: -80px;
+    width: 30%;
+    border-radius: 5%;
+    height: 30px;
+}
+
+#info {
+    color: white;
+    font-size: 80px;
+    font-family: 'Tangerine', cursive;
+}
+
+#output {
+    color: white;
+    font-family: 'Tangerine', cursive;
+    border: 10px white solid;
+}
+
+#welcome {
+    color: white;
+    font-size: 80px;
+    font-family: 'Tangerine', cursive;
+}
+
+#add {
+    background-color: white;
+    font-family: 'Sacramento', cursive;
+    font-size: 30px;
+}
